@@ -7,3 +7,5 @@
 Гозман Семён : https://github.com/Eragon322
 
 Алёша Блинов : https://github.com/blinovalescha
+
+Ланецкий Николай: https://github.com/SouNewP
